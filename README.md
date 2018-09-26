@@ -347,7 +347,7 @@ nginx -s restart
 
 # 友情链接
 
-[项目后台地址](https://github.com/EasyTuan/node-elm-api)
+[项目后台地址](https://github.com/KongVe/ele-api)
 
 # License
 
